@@ -9,3 +9,13 @@
 
 **Link to work:** [create-react-app-docs](https://create-react-app.dev/docs/using-global-variables)
 
+
+### Day 1: May 4th, 2020
+##### (delete me or comment me out)
+
+**Today's Progress**: Learn about react state and components
+
+**Thoughts:** The states can be quite confusing.
+
+**Link to work:** [create-react-app-docs](https://create-react-app.dev/docs/using-global-variables)
+
